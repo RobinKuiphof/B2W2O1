@@ -1,0 +1,50 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.page{
+	margin: auto auto;
+	width: 1280px;
+	height: 769px;
+	background-image: url("stage.png");
+}
+.duck1{
+	margin-left: 550px;
+	margin-top:200px;
+	position: relative;
+	color: transparent;
+	background-color: transparent;
+	border-color: transparent;
+
+}
+.score{
+	position: relative;
+	top:220px;
+	left: 100px;
+}
+.mis{
+	position: relative;
+	top:170px;
+	left: 290px;
+}
+.hits{
+	position: relative;
+	top:190px;
+	left: 30px;
+}
+.missed{
+	position: relative;
+	top:140px;
+	left: 200px;
+}
+.shot{
+	position: relative;
+	top:114px;
+	left: 370px;
+}
+.shots{
+	position: relative;
+	top:90px;
+	left: 438px;
+}
